@@ -1,3 +1,4 @@
+# Modificacio del fitxer, punt 5 de la practica de control de versions
 # Practica de la UF5 collections!
 ## Classes 
 - Productes (Abstracta) implementa Comparable.
