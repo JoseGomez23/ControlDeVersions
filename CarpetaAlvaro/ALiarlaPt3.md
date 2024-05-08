@@ -1,2 +1,2 @@
 Gomez, Alvaro pasó por aqui hace no mucho tiempo
-![gif](https://github.com/JoseGomez23/ControlDeVersions/assets/147045272/98ef6cbd-ea71-4ebf-a65b-dfdf94bb572c)
+![5eeea355389655 59822ff824b72](https://github.com/JoseGomez23/ControlDeVersions/assets/147045272/97b98975-eb57-4b58-b9e0-c1456e802f6f)
